@@ -1,0 +1,16 @@
+a{
+    font-size: 20px;
+}
+p{
+    font-size: 28px;
+}
+.heading{
+    font-size:40px;
+    text-align: center;
+    color:white;
+}
+.container{
+    background-color:rgb(163, 33, 33); 
+    color:aliceblue;
+    font-size: 24px;
+}
